@@ -1,0 +1,61 @@
+{
+  "brand": "Nike",
+  "name": "Joe Smith",
+  "jobtitle": "Computer Engineer",
+  "greeting": "Hola",
+  "whoami": "My name is Joe and I like computers",
+  "welcome": "Welcome to my page. Feel free to contact me with any questions!",
+  "phone": "123-456-7891",
+  "email": "cebrin@byui.edu",
+  "facebook": "https://www.facebook.com/cebrin",
+  "twitter": "https://twitter.com/cebrinb",
+  "linkedin": "https://www.linkedin.com/in/cebrinbillings",
+  "instagram": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+
+  "aboutme1": "I live in Rexburg and go to BYU-Idaho",
+  "aboutme2": "I like video games and stuff",  
+
+  "title1": "Work History",
+  "workhistory1": "I currently work at BYU-Idaho",
+
+  "title2": "Skills",
+  "skills": [
+      "JavaScript",
+      "HTML/CSS/Bootstrap",
+      "Java",
+      "C++",
+      "Visual Studio",
+      "Python",
+      "PHP",
+      "Node.js"
+  ],
+
+  "title3": "Hobbies & Interests",
+  "hobbies": [
+    "Horseback riding",
+    "Hiking",
+    "Gardening",
+    "Baking",
+    "Snorkelling",
+    "Reading"
+  ],
+
+  "projects": [
+    ["https://www.github.com",
+     "../images/project1image.jpg",
+     "My App",
+     "Java, Android Studios"],
+
+    ["https://www.google.com",
+     "../images/project2image.jpg",
+     "Project 2",
+     "Java"],
+
+    ["https://www.google.com",
+     "../images/project3image.jpg",
+     "Project 3",
+     "HTML, CSS, JavaScript"]
+
+    
+  ]
+}
